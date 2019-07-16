@@ -2,12 +2,10 @@ body{
     background-color:whitesmoke;
     position: relative;
     font-family: 'Noto Sans KR', sans-serif;
-    
-   
-
 }
+
  /*--------------------------------------- */
- 
+/*  
 .navbar {
   overflow: hidden;
   background-color: #0069B4;
@@ -31,52 +29,18 @@ body{
 .navbar a:hover {
   background: #FFCC00;
   color: black;
-}
+} */
  /* ----------------------------------- */
 
-/* .navbar{
-    
-   background-color: #17242D;
-    background-color:#0069B4;
-} */
-/* 
-.menu-width{
-  margin: 0px 5px 0 5px;
- 
- 
-}
-.active-link{
-  background: #FFCC00;
-  color: black;
-  font-weight: bold;
-  
-}
-.active-link:hover{
-  background: #AFCA0B;
-  color: black;
-  font-weight: bold;
-}
-.nav-txt:focus:active {
-  background: #FFCC00;
-  color: black;
-  font-weight: bold;
-}
 
-.nav-txt{
-  color:white;
-}
-.nav-txt:hover{
-  background: #AFCA0B;
-  color: black;
-  font-weight: bold;
-} */
+
 
 .logo{
     padding:0;
     margin:0;
     margin-right:10px;
     margin-left: 10px;
-    width:60px;
+    width:50px;
     
 }
 .jmb0{
